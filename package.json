@@ -31,7 +31,6 @@
     "@smui/tab-bar": "^7.0.0-beta.0",
     "@smui/textfield": "^7.0.0-beta.0",
     "smui-theme": "^7.0.0-beta.0",
-    "svelte-calendar": "^3.1.6",
     "sveltestrap": "^5.9.0"
   }
 }
